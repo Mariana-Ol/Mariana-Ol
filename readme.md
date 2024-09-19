@@ -7,7 +7,7 @@
 #### Estudante de Ciência de Dados (Mackenzie).
 #### Interessada em: trocas de ideias, novas experiências profissionais, novas tecnologias, discussões sobre temas afrocentrados e aprender, aprender, aprender. 
 
-
+<a href="https://www.linkedin.com/in/mariana-oliveira-a5b8892b8/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ### Linguagens e bibliotecas
 
