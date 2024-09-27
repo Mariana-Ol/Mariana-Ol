@@ -17,6 +17,7 @@
     - ``Seaborn``
     - ``Matplotlib``
     - ``Numpy``
+    - ``Scikit-learn``
 - ``SQL``
 
 
