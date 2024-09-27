@@ -1,7 +1,7 @@
 # Bem-vindes! 
 
 
-### Sou uma profissional do livro buscando me tornar uma profissional de dados.
+### Sou uma profissional do livro em transição para a área de dados.
 #### Movida pela curiosidade e vontade de aprender. 
 #### Formada em Comunicação Social (UFRJ) e mestra em Literatura (UFF).
 #### Estudante de Ciência de Dados (Mackenzie).
